@@ -7,8 +7,6 @@
   <img align="left" alt="Nitesh Prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 --> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)
 Hi, I'm Nitesh Prasad, a Web Developer,  and Open Source Developer🚀 from India.
 <br />
 
